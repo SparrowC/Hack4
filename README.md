@@ -1,6 +1,7 @@
 #Preference使用
 - activity需要继承PreferenceActivity
 - 新建一个xml文件，如下：
+
 ###preference_layout.xml
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
